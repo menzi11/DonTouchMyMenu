@@ -28,6 +28,6 @@ void MainComponent::resized()
 
 void MainComponent::timerCallback()
 {
-    x = readConfigFile();
-    repaint();
+    //x = readConfigFile();
+    //repaint();
 }

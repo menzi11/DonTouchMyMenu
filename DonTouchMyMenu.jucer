@@ -4,7 +4,7 @@
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
   <MAINGROUP id="Q6FKQL" name="DonTouchMyMenu">
     <GROUP id="{A0E64FC7-28F8-BE6A-6B5D-9F545AF33938}" name="Source">
-      <FILE id="IcEXGf" name="icon.png" compile="0" resource="1" file="icon.png"/>
+      <FILE id="XUdWnr" name="icon.png" compile="0" resource="1" file="icon.png"/>
       <FILE id="bfWBDx" name="reg_op.cpp" compile="1" resource="0" file="Source/reg_op.cpp"/>
       <FILE id="f7LQLF" name="reg_op.h" compile="0" resource="0" file="Source/reg_op.h"/>
       <FILE id="lDwr5Q" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
@@ -29,12 +29,12 @@
         <CONFIGURATION isDebug="0" name="Release" targetName="DonTouchMyMenu"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
-        <MODULEPATH id="juce_core" path="../JUCE/modules"/>
-        <MODULEPATH id="juce_gui_basics" path="../JUCE/modules"/>
-        <MODULEPATH id="juce_graphics" path="../JUCE/modules"/>
-        <MODULEPATH id="juce_events" path="../JUCE/modules"/>
-        <MODULEPATH id="juce_data_structures" path="../JUCE/modules"/>
-        <MODULEPATH id="juce_gui_extra" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="C:\Users\mengke\wkspaces\JUCE\modules"/>
+        <MODULEPATH id="juce_gui_basics" path="C:\Users\mengke\wkspaces\JUCE\modules"/>
+        <MODULEPATH id="juce_graphics" path="C:\Users\mengke\wkspaces\JUCE\modules"/>
+        <MODULEPATH id="juce_events" path="C:\Users\mengke\wkspaces\JUCE\modules"/>
+        <MODULEPATH id="juce_data_structures" path="C:\Users\mengke\wkspaces\JUCE\modules"/>
+        <MODULEPATH id="juce_gui_extra" path="C:\Users\mengke\wkspaces\JUCE\modules"/>
       </MODULEPATHS>
     </VS2022>
   </EXPORTFORMATS>
